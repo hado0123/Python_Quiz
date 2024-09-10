@@ -1,0 +1,3 @@
+ERROR Exception in thread "main" java.lang.NoClassDefFoundError
+ERROR cannot resolve symbol
+ERROR java.lang.NoSuchMethodError: main
